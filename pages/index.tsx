@@ -144,9 +144,9 @@ export default function Home({
         <div id="comments" className="giscus w-full my-8" />
         <Script
           src="/client.js"
-          data-repo="giscus/giscus"
-          data-repo-id="MDEwOlJlcG9zaXRvcnkzNTE5NTgwNTM="
-          data-category-id="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyNzk2NTc1"
+          data-repo="Tutor-Info/Tutor-Info"
+          data-repo-id="R_kgDOHm6iVw"
+          data-category-id="DIC_kwDOHm6iV84CZhE1"
           data-mapping="specific"
           data-term="Welcome to giscus!"
           data-theme="preferred_color_scheme"
